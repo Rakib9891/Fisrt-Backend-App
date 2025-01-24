@@ -1,0 +1,20 @@
+{
+  "name": "firstbackend",
+  "version": "1.0.0",
+  "description": "My first backend where a basic app to deploy",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [
+    "node",
+    "first"
+  ],
+  "author": "rakibul hasan",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "espress": "^0.0.0",
+    "express": "^4.21.2"
+  }
+}
